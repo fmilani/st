@@ -6,6 +6,10 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Liberation Mono:size=12:antialias=true:autohint=true";
+static char *font2[] = {
+	"Terminess Nerd Font Mono:pixelsize=20:antialias=true:autohint=true",
+};
+
 static int borderpx = 2;
 
 /*
